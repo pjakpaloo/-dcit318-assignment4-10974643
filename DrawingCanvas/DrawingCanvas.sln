@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingCanvas", "DrawingCanvas.csproj", "{90AED75C-3B32-4A26-AC7A-8AC246B18B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AED75C-3B32-4A26-AC7A-8AC246B18B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AED75C-3B32-4A26-AC7A-8AC246B18B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AED75C-3B32-4A26-AC7A-8AC246B18B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AED75C-3B32-4A26-AC7A-8AC246B18B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15D60D6-2249-41C2-A8A2-DB0FD829AF45}
+	EndGlobalSection
+EndGlobal

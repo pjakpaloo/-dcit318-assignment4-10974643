@@ -1,0 +1,9 @@
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\bin\Debug\DrawingCanvas.exe.config
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\bin\Debug\DrawingCanvas.exe
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\bin\Debug\DrawingCanvas.pdb
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\obj\Debug\DrawingCanvas.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\obj\Debug\DrawingCanvas.Properties.Resources.resources
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\obj\Debug\DrawingCanvas.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\obj\Debug\DrawingCanvas.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\obj\Debug\DrawingCanvas.exe
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\DrawingCanvas\obj\Debug\DrawingCanvas.pdb
