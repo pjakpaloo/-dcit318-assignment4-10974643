@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\bin\Debug\AddressBook.exe.config
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\bin\Debug\AddressBook.exe
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\bin\Debug\AddressBook.pdb
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.Form1.resources
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.Properties.Resources.resources
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.exe
+C:\Users\dell\source\repos\dcit318-assignment4-10974643\AddressBook\obj\Debug\AddressBook.pdb
